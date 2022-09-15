@@ -2,14 +2,14 @@
 
 ### A dash web app that produces dynamic plots of the closing prices and exponential moving average for input stock code. App uses a machine learning model (SVR) for closing stock price prediction for the number of user input days.
 
-###### Landing & Form
+#### Landing & Form
 ![alt text](/images/stock.png)
 
-###### Stock Price
+#### Stock Price
 ![alt text](/images/closing_opening_price_date.png)
 
-###### Indicators
+#### Indicators
 ![alt text](/images/ema_date.png)
 
-###### Forecast
+#### Forecast
 ![alt text](/images/predicted_close_price.png)
