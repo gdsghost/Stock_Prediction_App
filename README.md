@@ -6,10 +6,10 @@
 ![alt text](/images/stock.png)
 
 ###### Stock Price
-![alt text](https://raw.githubusercontent.com/gdsghost/Stock_Prediction_App/master/images/closing_opening_price_date.png)
+![alt text](/images/closing_opening_price_date.png)
 
 ###### Indicators
-![alt text](https://raw.githubusercontent.com/gdsghost/Stock_Prediction_App/master/images/ema_date.png)
+![alt text](/images/ema_date.png)
 
 ###### Forecast
-![alt text](https://raw.githubusercontent.com/gdsghost/Stock_Prediction_App/master/images/predicted_close_price.png)
+![alt text](/images/predicted_close_price.png)
